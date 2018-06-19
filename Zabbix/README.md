@@ -1,11 +1,11 @@
 # Zabbix – Ferramenta de Monitoramento  
 <br>
 
-![img](https://github.com/AnttoniC/Seguranca-da-Informacao/blob/master/pfSense/img/pfsense.png)
+![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/zab2.jpg)
 
 ## Equipe
 [Antonio Carlos](https://github.com/AnttoniC/Seguranca-da-Informacao)<br>
-[Samuel Brandão](https://github.com/SamuelBrandao08/Seguranca)
+[Jefté de Sousa](https://github.com/bassebete/information-security)
 
 ## Introdução ao Zabbix
 
