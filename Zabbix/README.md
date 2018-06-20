@@ -34,8 +34,8 @@ Agente Zabbix: O agente é responsável por repassar todas as informações que 
 ![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/ins0.png)
 
 ## Etapa 2 - Configuração do Zabbix Agente
-![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/ins1.png)
-![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/ins2.png)
+![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/Ins1.png)
+![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/Ins2.png)
 
 ## Etapa 3 - Liberar Porta(10050) no Firewall 
 
