@@ -13,7 +13,9 @@ O Zabbix oferece portabilidade a diversos sistemas operacionais desde Li
 Entretanto existe uma dependência em relação à estrutura do Zabbix, visto que o mesmo foi projetado com o intuito de ser uma ferramenta Open Source, seu servidor necessariamente deve ser hospedado em uma máquina com o Linux ou Mac OS, visto que não existe um pacote do servidor disponível para as versões do Windows.
 
 ## Preparação do Ambiente
+Laboratório da E.E.E.P.Maria Cavalcante Costa
 
+![img](https://github.com/AnttoniC/Gerencia/blob/master/Img/zab2.jpg)
 
 ## Instalação e Configuração
 
